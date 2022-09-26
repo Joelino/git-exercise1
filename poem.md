@@ -10,3 +10,7 @@ Jdi a otevři dveře.
            nebo oko,
            nebo obraz
            obrazu.
+
+Jdi a otevři dveře.
+           Když je tam mlha,
+           spadne.
