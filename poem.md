@@ -15,3 +15,7 @@ Jdi a otevři dveře.
                                  nebylo,
 
 jdi a otevři dveře.
+
+Aspoň
+průvan
+bude. 
