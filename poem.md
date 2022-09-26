@@ -1,3 +1,8 @@
+Miroslav Holub:
+Jdi a otevři dveře
+
+Dveře
+
 Jdi a otevři dveře.
            Třeba je tam venku
            strom, nebo les,
