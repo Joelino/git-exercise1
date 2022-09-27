@@ -15,10 +15,17 @@ Jdi a otevři dveře.
            i kdyby tam bylo jen
            duté vanutí,
 
-           i kdyby tam
-                      nic
-                                 nebylo,
 
+Jdi a otevři dveře.
+           Třeba tam pes škrabe.
+           Třeba je tam tvář,
+           nebo oko,
+           nebo obraz
+           obrazu.
+
+Jdi a otevři dveře.
+           Když je tam mlha,
+           spadne.
 jdi a otevři dveře.
 
 Aspoň
